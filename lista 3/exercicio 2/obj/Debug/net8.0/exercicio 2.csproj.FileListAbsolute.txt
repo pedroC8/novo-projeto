@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\novo-projeto\lista 3\exercicio 2\obj\Debug\net8.0\exercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\novo-projeto\lista 3\exercicio 2\obj\Debug\net8.0\exercicio 2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\novo-projeto\lista 3\exercicio 2\obj\Debug\net8.0\exercicio 2.AssemblyInfo.cs
+C:\Users\User\Desktop\novo-projeto\lista 3\exercicio 2\obj\Debug\net8.0\exercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\novo-projeto\lista 3\exercicio 2\obj\Debug\net8.0\exercicio 2.sourcelink.json
